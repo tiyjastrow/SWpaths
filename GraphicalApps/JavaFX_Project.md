@@ -1,7 +1,5 @@
 # JavaFX
 
-![lost all my contacts.jpeg](https://tiy-learn-content.s3.amazonaws.com/defe35a3-lost%20all%20my%20contacts.jpeg)
-
 ## Description
 
 Create a desktop app for managing contacts.
