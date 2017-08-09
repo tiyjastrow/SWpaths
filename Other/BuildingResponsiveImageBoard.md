@@ -6,7 +6,7 @@ https://github.com/TIY-LR-FEE-2015-Fall/assignments/tree/master/16-image-board
 
 These videos are broken into smaller chunks so you can easily pick what you are working through and only have 5-20mins to watch instead of 2hrs.
 
-The source code for this application is at: https://github.com/tiy-tn-fee-2017-winter/image-board
+The source code for this application is at: https://github.com/tiyjastrow/image-board
 
 There are individual commits for each video.
 
